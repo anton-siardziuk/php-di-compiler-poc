@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mnapoli/php-di": "dev-feature/Compiler",
+        "zendframework/zend-di": "2.2.*"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
